@@ -21,5 +21,6 @@
   "bugs": {
     "url": "https://github.com/jbakchr/mandril-quotes/issues"
   },
-  "homepage": "https://github.com/jbakchr/mandril-quotes#readme"
+  "homepage": "https://github.com/jbakchr/mandril-quotes#readme",
+  "type": "module"
 }
