@@ -1,0 +1,25 @@
+{
+  "name": "mandril-quotes",
+  "version": "1.0.0",
+  "description": "Package for getting quotes from the 'Casper & Mandrilaftalen' TV show",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbakchr/mandril-quotes.git"
+  },
+  "keywords": [
+    "Casper & Mandrilaftalen",
+    "mandril",
+    "mandrillen",
+    "quotes"
+  ],
+  "author": "Jonas Bak Phillipson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jbakchr/mandril-quotes/issues"
+  },
+  "homepage": "https://github.com/jbakchr/mandril-quotes#readme"
+}
