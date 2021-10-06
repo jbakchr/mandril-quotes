@@ -1,6 +1,6 @@
 {
   "name": "mandril-quotes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Package for getting quotes from the 'Casper & Mandrilaftalen' TV show",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,5 @@
   "bugs": {
     "url": "https://github.com/jbakchr/mandril-quotes/issues"
   },
-  "homepage": "https://github.com/jbakchr/mandril-quotes#readme",
-  "type": "module"
+  "homepage": "https://github.com/jbakchr/mandril-quotes#readme"
 }
