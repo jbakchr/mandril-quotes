@@ -1,4 +1,4 @@
-import { quotes } from "./lib/quotes.js";
+const quotes = require("./lib/quotes");
 
 const spisIld = () => {
   const index = Math.floor(Math.random() * quotes.length);
@@ -6,4 +6,6 @@ const spisIld = () => {
   console.log(`${character}: "${quote}"`);
 };
 
-export { spisIld };
+module.exports = {
+  spisIld,
+};
