@@ -14,6 +14,6 @@ const mandrilQuotes = require("mandril-quotes");
 mandrilQuotes.spisIld();
 ```
 
-## Maintainers
+## maintainers
 
 - [Jonas Bak Phillipson](https://github.com/jbakchr)
