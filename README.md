@@ -18,6 +18,6 @@ mandrilQuotes.spisIld();
 mandrilQuotes.getWarning();
 ```
 
-## Maintainers
+## maintainers
 
 - [Jonas Bak Phillipson](https://github.com/jbakchr)
