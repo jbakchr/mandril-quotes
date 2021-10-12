@@ -23,5 +23,20 @@
     "season": 1,
     "episode": 5,
     "warning": "Dette program indeholder cement. Og det er tungt."
+  },
+  {
+    "season": 1,
+    "episode": 6,
+    "warning": "Dette program indeholder en scene, hvor ordet 'pære' siges. Det er den her scene."
+  },
+  {
+    "season": 1,
+    "episode": 7,
+    "warning": "Dette program indeholder en advarsel, der indeholder et hiphopgrin. Hahaaa.."
+  },
+  {
+    "season": 1,
+    "episode": 8,
+    "warning": "Dette program indeholder en sær seksuel reference til ordet 'sukkerstang'."
   }
 ]
