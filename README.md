@@ -16,6 +16,9 @@ mandrilQuotes.spisIld();
 
 // Get random warning
 mandrilQuotes.getWarning();
+
+// Get random program overview
+mandrilQuotes.enProgramOversigt();
 ```
 
 ## Maintainers
