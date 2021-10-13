@@ -2,11 +2,11 @@
 
 Package for getting quotes from the Danish TV show "Casper & Mandrilaftalen"
 
-## installation
+## Installation
 
 `npm i mandril-quotes`
 
-## usage
+## Usage
 
 ```JavaScript
 const mandrilQuotes = require("mandril-quotes");
@@ -18,6 +18,6 @@ mandrilQuotes.spisIld();
 mandrilQuotes.getWarning();
 ```
 
-## maintainers
+## Maintainers
 
 - [Jonas Bak Phillipson](https://github.com/jbakchr)
