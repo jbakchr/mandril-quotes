@@ -224,5 +224,152 @@
         "title": "Højdepunktet: Et sløret Polfoto fra Lasse Lunderskovs homobryllup i Dronningmølle"
       }
     ]
+  },
+  {
+    "season": 1,
+    "episode": 6,
+    "program_overview": [
+      {
+        "time": "23:30",
+        "title": "Euroman-læser vendes i hvedemel og paneres"
+      },
+      {
+        "time": "23:35",
+        "title": "Side 9-pige med gulsot"
+      },
+      {
+        "time": "23:49",
+        "title": "Talentshow"
+      },
+      {
+        "time": "23:41",
+        "title": "Hest der kan læse runer"
+      },
+      {
+        "time": "23:45",
+        "title": "Elton kommer og kastrerer Kim Behnke med slalomski"
+      },
+      {
+        "time": "23:50",
+        "title": "Jesper Kisum fra TV Danmark driller høj man fra Ceylon"
+      },
+      {
+        "time": "23:55",
+        "title": "Karen Blixen-efterligning fortæller om gocartens historie"
+      },
+      {
+        "time": "24:00",
+        "title": "Hat, der går med hat"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "episode": 7,
+    "program_overview": [
+      {
+        "time": "23:30",
+        "title": "Danse electric boogie med en narkoman"
+      },
+      {
+        "time": "23:35",
+        "title": "Kvist læser gruk"
+      },
+      {
+        "time": "23:36",
+        "title": "Pjerrot tungekysser to gamle frihedskæmpere"
+      },
+      {
+        "time": "23:40",
+        "title": "Cowboy stjæler en gedde"
+      },
+      {
+        "time": "23:41",
+        "title": "Frisør Tage Frandsen kommer og tæver alle medvirkende i Matador"
+      },
+      {
+        "time": "23:45",
+        "title": "Svensk petanque-kommentator forbløder på crepepapir"
+      },
+      {
+        "time": "23:50",
+        "title": "Dukkefører fra Fyn drikker Ole Stephensens morgenurin (live)"
+      },
+      {
+        "time": "23:55",
+        "title": "Goldie Hawn-efterligning ringer til Tyskland"
+      },
+      {
+        "time": "24:00",
+        "title": "Danse electric boogie med en ?"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "episode": 8,
+    "program_overview": [
+      {
+        "time": "23:30",
+        "title": "Mand bygget af maltbolsjer viser rundt på Læsø"
+      },
+      {
+        "time": "23:31",
+        "title": "Michael Teschl kommer og viser hvordan man staver hans navn og hvorfor"
+      },
+      {
+        "time": "23:35",
+        "title": "Robert Jacobsen-skulptur smeltes om til nyttig fjeder"
+      },
+      { "time": "23:40", "title": "Puma brevveksler med høj mand fra Ceylon" },
+      { "time": "23:42", "title": "Per Viking døbes \"Knæleren\"" },
+      {
+        "time": "23:45",
+        "title": "Alfa Romeo-forhandler svarer på spørgsmål fra en okapi"
+      },
+      { "time": "23:46", "title": "Junkie installerer CD-ROM-drev i en sav" },
+      {
+        "time": "23:50",
+        "title": "Cykelrytteren Indurain fælder møgbusk i svømmehal"
+      },
+      {
+        "time": "23:55",
+        "title": "Kirsten Norholt aflives vha. en golden retriever"
+      },
+      {
+        "time": "23:56",
+        "title": "Kirsten Norholt genoplives vha. snescooter"
+      },
+      { "time": "24:00", "title": "Glaspuster tager dyb indånding" }
+    ]
+  },
+  {
+    "season": 1,
+    "episode": 9,
+    "program_overview": [
+      { "time": "23:30", "title": "Flemming Krøll kommer og smuldrer brød" },
+      {
+        "time": "23:35",
+        "title": "Adolf Hitler kommer og synger Tangokat i duet med Krede fra Puls"
+      },
+      {
+        "time": "23:36",
+        "title": "Dansk-amerikaner gnider ræv ind i duftende olier"
+      },
+      { "time": "23.39", "title": "Scooter fremstillet af æbler vælter" },
+      {
+        "time": "23:40",
+        "title": "To af medlemmerne af David Bowie lykønsker saftdunk"
+      },
+      { "time": "23:41", "title": "Dræbertusch fornyer sit repertoire" },
+      { "time": "23:45", "title": "Thomas Helmig opfinder gennemsigtig mark" },
+      {
+        "time": "23:50",
+        "title": "Rapperen Clemens køber Thomas Ejes mandler"
+      },
+      { "time": "23:55", "title": "Dalmatiner begraver mand fra Ceylon (høj)" },
+      { "time": "23:59", "title": "Jan Magnussen griber stor håndfuld mjød" },
+      { "time": "24:00", "title": "Svensk revisor synger julen ind" }
+    ]
   }
 ]
