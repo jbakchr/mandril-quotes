@@ -24,5 +24,8 @@
   "homepage": "https://github.com/jbakchr/mandril-quotes#readme",
   "dependencies": {
     "chalk": "^4.1.2"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
   }
 }
