@@ -449,5 +449,65 @@
         "title": "Casper Christensen kommer ind og former sin albue som Simon Rosenbaums ansigt"
       }
     ]
+  },
+  {
+    "season": 1,
+    "episode": 12,
+    "program_overview": [
+      { "time": "23:30", "title": "Verdens største Pjerrot-akvarel" },
+      {
+        "time": "23:35",
+        "title": "Biker Jens svinger en gaffel 200 meter over Lisbet Dahls hoved"
+      },
+      { "time": "23:40", "title": "Laks ryger herrestor joint" },
+      {
+        "time": "23:45",
+        "title": "Bjerringbro Halsforening kommer og brækker sig"
+      },
+      {
+        "time": "23:50",
+        "title": "Paul Hagen gemmer tulipanløg i Thomas Helmigs trailer"
+      },
+      {
+        "time": "23:55",
+        "title": "Computerfreak rister vallak, hvis han kan løsrive sig fra tastaturet"
+      },
+      {
+        "time": "24:00",
+        "title": "Per Arnoldi kysser alle dem fra de skægge fiskereklamer"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "episode": 13,
+    "program_overview": [
+      {
+        "time": "23:30",
+        "title": "Svampesamler kommer og sluger et drengebarn"
+      },
+      {
+        "time": "23:35",
+        "title": "Mand bygget af stenbiderrogn kommer og viser rundt i Scala"
+      },
+      {
+        "time": "23:40",
+        "title": "Senil skorstenfejer kommer her og drejer den lille viser op på 19"
+      },
+      { "time": "23:45", "title": "Salt græker kommer og optræder i udhus" },
+      {
+        "time": "23:50",
+        "title": "Puk Elgaard graves ned i spagnum til halsen"
+      },
+      {
+        "time": "23:52",
+        "title": "Mette Lisby kommer herind og parodierer Sara Young"
+      },
+      {
+        "time": "23:55",
+        "title": "Jesper Kisum kommer og gemmer en vådserviet inde i en Ford Ka"
+      },
+      { "time": "24:00", "title": "Lal" }
+    ]
   }
 ]
