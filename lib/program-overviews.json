@@ -371,5 +371,83 @@
       { "time": "23:59", "title": "Jan Magnussen griber stor håndfuld mjød" },
       { "time": "24:00", "title": "Svensk revisor synger julen ind" }
     ]
+  },
+  {
+    "season": 1,
+    "episode": 10,
+    "program_overview": [
+      { "time": "23:30", "title": "Klistermærker til alle" },
+      { "time": "", "title": "Jens Vejmand vil fremvise et frønnet brædt" },
+      {
+        "time": "23:32",
+        "title": "Holger Danske vågner op og siger: \"Enebærgryde\""
+      },
+      {
+        "time": "23:33",
+        "title": "Debatrunde - emnet er: \"Skaldet - før og nu, tidligere, i fremtiden, om 5 minutter, i en parallelverden, i Helvede og på Hjerl Hede\""
+      },
+      {
+        "time": "23:46",
+        "title": "Stum mand tiltvinger sig adgang til studiet for at sige \"Tak for et godt program\""
+      },
+      {
+        "time": "23:56",
+        "title": "Stum, men usædvanligt stædig, mand bæres ud af programmet"
+      },
+      {
+        "time": "23:57",
+        "title": "Lars von Trier stiller spørgsmålstegn ved sin egen overlegenhed"
+      },
+      {
+        "time": "23:57:01",
+        "title": "Lars von Trier stiller op som amerikansk præsidentkandidat"
+      },
+      {
+        "time": "23:58",
+        "title": "Bo Bedre-redaktionen besøger Jens Langknivs hul i Daugbjerg Kalkgruber"
+      },
+      {
+        "time": "24:00",
+        "title": "Godnat"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "episode": 11,
+    "program_overview": [
+      { "time": "23:30", "title": "Halfdan Rasmussen kvæler nattevægter" },
+      {
+        "time": "23:35",
+        "title": "Cirkelhuset omdannes til kæmpe erogen zone for alle borgere"
+      },
+      { "time": "23:40", "title": "Tyk mand overnatter i kuffert" },
+      { "time": "23:45", "title": "Kastanjer overdrages til ørredbrug" },
+      {
+        "time": "23:50",
+        "title": "Jungledrengen Mowgli kæler for salt græker"
+      },
+      {
+        "time": "23:57",
+        "title": "Lars von Trier stiller spørgsmålstegn ved sin egen overlegenhed"
+      },
+      {
+        "time": "23:57:01",
+        "title": "Lars von Trier stiller op som amerikansk præsidentkandidat"
+      },
+      {
+        "time": "23:58",
+        "title": "Bo Bedre-redaktionen besøger Jens Langknivs hul i Daugbjerg Kalkgruber"
+      },
+      {
+        "time": "23:59",
+        "title": "Jens Langkniv dræber hele Bo Bedre-redaktionen"
+      },
+      { "time": "23:59:30", "title": "Det aller-allersidste nyt" },
+      {
+        "time": "24:00",
+        "title": "Casper Christensen kommer ind og former sin albue som Simon Rosenbaums ansigt"
+      }
+    ]
   }
 ]
