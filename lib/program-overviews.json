@@ -509,5 +509,93 @@
       },
       { "time": "24:00", "title": "Lal" }
     ]
+  },
+  {
+    "season": 1,
+    "episode": 14,
+    "program_overview": [
+      { "time": "23:30", "title": "Tordnende fuld engel råber \"Køge\"" },
+      {
+        "time": "23:35",
+        "title": "Puk Elgaard saver den svenske Stålmanden itu"
+      },
+      {
+        "time": "23:40",
+        "title": "Grim saks kommer og tvinger gæst til at røre med sigøjnerguld"
+      },
+      { "time": "23:45", "title": "Salt græker pirrer søvngænger" },
+      {
+        "time": "23:50",
+        "title": "Al Agamis venstre arm udstillet på Den Hirschsprungske Samling"
+      },
+      {
+        "time": "23:55",
+        "title": "Krydderiet timian opvarmer før ZZ Top-koncert"
+      },
+      { "time": "24:00", "title": "Dansk jæger forærer narkoman kimono" }
+    ]
+  },
+  {
+    "season": 1,
+    "episode": 15,
+    "program_overview": [
+      {
+        "time": "23:30",
+        "title": "Gepard binder Taxa-Mikes snørrebånd kun ved tankens kraft"
+      },
+      { "time": "23:34", "title": "Undersøisk eksplosion" },
+      {
+        "time": "23:40",
+        "title": "Ayatollah Khomeini fejrer sit comeback med en bøf kun af peber"
+      },
+      {
+        "time": "23:34",
+        "title": "Jesper Grønkjær danser erotisk dans med billede af Jens Olaf Jersild"
+      },
+      {
+        "time": "23:51",
+        "title": "Satan kommer i studiet og præsenterer sin nye duftserie"
+      },
+      {
+        "time": "00:00",
+        "title": "Mand kun iført hårde hvidevarer siger undskyld"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "episode": 16,
+    "program_overview": [
+      {
+        "time": "23:30",
+        "title": "Knastør Kirsten Siggaard vinder Paris-Dakar"
+      },
+      {
+        "time": "23:35",
+        "title": "Bill Cosby kommer og finder undskyldning for at gå"
+      },
+      {
+        "time": "23:40",
+        "title": "Kam ler hjerteligt af uhelbredeligt syg sigøjner"
+      },
+      { "time": "23:46", "title": "Regnskoven går amok i sultestrejke" },
+      {
+        "time": "23:50",
+        "title": "Sokrates medvirker i Jeopardy! og taber stort til mand fra Horsens"
+      },
+      {
+        "time": "23:52",
+        "title": "Udflugt i kano til folketinget bliver aflyst"
+      },
+      { "time": "23:55", "title": "Eksil-Kai Løvring-fans saver i bøg" },
+      {
+        "time": "23:58",
+        "title": "Fordampet vand dukker pludseligt op på teglsten i Skodsborg"
+      },
+      {
+        "time": "23:59-24:00",
+        "title": "Hitler kommer og slukker 25000 halogenlamper"
+      }
+    ]
   }
 ]
