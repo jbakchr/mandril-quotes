@@ -13,7 +13,7 @@ const spisIld = () => {
   console.log(`${character}: "${quote}"`);
 };
 
-const getWarning = () => {
+const advarsel = () => {
   const { season, episode, warning } = warnings[getRandomIndex(warnings)];
   console.log(`S${season}:E${episode}: ${warning}`);
 };
@@ -29,6 +29,6 @@ const enProgramOversigt = () => {
 
 module.exports = {
   spisIld,
-  getWarning,
+  advarsel,
   enProgramOversigt,
 };

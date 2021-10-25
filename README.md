@@ -15,7 +15,7 @@ const mandrilQuotes = require("mandril-quotes");
 mandrilQuotes.spisIld();
 
 // Get random warning
-mandrilQuotes.getWarning();
+mandrilQuotes.advarsel();
 
 // Get random program overview
 mandrilQuotes.enProgramOversigt();
