@@ -720,5 +720,87 @@
         "title": "Komikeren Frank Hvam hånes for manglende DVD-afspiller"
       }
     ]
+  },
+  {
+    "season": 1,
+    "episode": 25,
+    "program_overview": [
+      { "time": "23:30", "title": "Folkets Park overtages af 80 negertudser" },
+      {
+        "time": "23:33",
+        "title": "Syg skalp overdrysser antikke kontaktlinser"
+      },
+      { "time": "23:40", "title": "Tysken kommer! Tysken kommer!" },
+      { "time": "23:46", "title": "Munk præmieres for sniksnak" },
+      { "time": "23:49", "title": "Ærgerrig gnu kvæles i slips" },
+      {
+        "time": "23:55",
+        "title": "Elvis kommer i studiet og demonstrerer brøkregning"
+      },
+      {
+        "time": "24:00",
+        "title": "Finderup Lade køres med gaffeltruck til New Delhi"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "episode": 26,
+    "program_overview": [
+      { "time": "23:30", "title": "Suspicious Mind danser fræk boogie-woogie" },
+      { "time": "23:35", "title": "Gult bord omsmeltes til 21 kinadrenge" },
+      {
+        "time": "23:89",
+        "title": "Peter Pedal fortæller hvorfor han synes Thomas Eje er okay"
+      },
+      {
+        "time": "23:46",
+        "title": "Arne Melchior accepterer tilstedeværelsen af Natotropper på sin ryg"
+      },
+      {
+        "time": "23:48",
+        "title": "Løgnagtig vind kigger ind og siger: \"Klokken er 7:30!\""
+      },
+      {
+        "time": "23:56",
+        "title": "Salt græker flækker høj man fra Ceylon med en lille ananasskive"
+      },
+      {
+        "time": "24:00",
+        "title": "Satan falder og slår sig på en pose budding"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "episode": 27,
+    "program_overview": [
+      {
+        "time": "23:30",
+        "title": "Mæslingeramte kaffebønner danser og danser"
+      },
+      {
+        "time": "23:33",
+        "title": "Grædende bornholmerur tordner frem i alle meningsmålinger"
+      },
+      {
+        "time": "23:36",
+        "title": "Komikeren Lasse Rimmer er sammen med to piger på én gang"
+      },
+      {
+        "time": "23:77",
+        "title": "Dværg svitses af elevator af elevator uden gulv"
+      },
+      { "time": "23:45", "title": "Drikke mælk" },
+      {
+        "time": "23:55",
+        "title": "Kvinde føder syv kilo karamelrand efter flueknepperi"
+      },
+      {
+        "time": "23:29",
+        "title": "Mand uden hoved klemmer 1 lille stykke hindbærroulade ned"
+      },
+      { "time": "24:00", "title": "?" }
+    ]
   }
 ]
