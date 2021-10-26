@@ -802,5 +802,87 @@
       },
       { "time": "24:00", "title": "?" }
     ]
+  },
+  {
+    "season": 1,
+    "episode": 28,
+    "program_overview": [
+      {
+        "time": "23:30",
+        "title": "Ypperlig civiløkonom fanget i lerlasagne på ubestemt tid"
+      },
+      {
+        "time": "23:35",
+        "title": "Kammerherre masserer lyntog til ukendelighed"
+      },
+      {
+        "time": "23:40",
+        "title": "Solvognen atter sat ind på Fåborg-Oslo-ruten"
+      },
+      { "time": "23:45", "title": "Vi retter en fejl som opstår Kl. 23:49" },
+      { "time": "23:51", "title": "Mand uden ben er ståtrolden i 300 år" },
+      {
+        "time": "23:53",
+        "title": "Usynlig mand bliver blind og råber \"Øv!\" flere gange"
+      },
+      {
+        "time": "23:57",
+        "title": "Sportsinteresseret lækat bygger alt for stor rumraket"
+      },
+      {
+        "time": "24:00",
+        "title": "Lederen af Bølle-Bobs fanklub får vendt sine negle"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "episode": 29,
+    "program_overview": [
+      {
+        "time": "23:30",
+        "title": "Jes Dorph-Petersen hyldes som en af vor egne"
+      },
+      { "time": "23:35", "title": "Omskåret jonglør finkæmmer hat af ærter" },
+      { "time": "23:40", "title": "André Lublin overnatter i mælkeseng" },
+      {
+        "time": "23:45",
+        "title": "Komikeren Lars Hjortshøj anmelder \"The Bananashow\""
+      },
+      { "time": "23:50", "title": "Grim stol vælter på indkøbshøj" },
+      {
+        "time": "23:55",
+        "title": "Papirklipper drukner mand bygget af majsolie"
+      },
+      {
+        "time": "24:00",
+        "title": "Gråsprængt diskohaj anklager Dan Rachlin for klaustrofobi"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "episode": 30,
+    "program_overview": [
+      { "time": "23:00", "title": "En kam til tonicvand leger fint" },
+      {
+        "time": "23:35",
+        "title": "Benedicte Strøm flytter seks meter høj klitoris"
+      },
+      {
+        "time": "23:40",
+        "title": "peberfrugt fyldt med sølv kræver asyl af børnesygdom"
+      },
+      {
+        "time": "23:45",
+        "title": "Papa Bues Jazzband optræder i kæmpe eddikebassin"
+      },
+      { "time": "23:50", "title": "Gospelkor æder antik saddel" },
+      {
+        "time": "23:55",
+        "title": "Ældre medborger kommer og smager på Hitlers uniform"
+      },
+      { "time": "24:00", "title": "Dadler, dadler og masser af dadler!" }
+    ]
   }
 ]
