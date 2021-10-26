@@ -621,5 +621,104 @@
         "title": "Silkeabe vinder 40 gylden på at drikke Jimmy Carters morgenurin"
       }
     ]
+  },
+  {
+    "season": 1,
+    "episode": 21,
+    "program_overview": [
+      {
+        "time": "23.30",
+        "title": "Lånt hat tvinges på sned af vred rebslager"
+      },
+      { "time": "23.35", "title": "Alsidig hippie væver bombetrussel af stål" },
+      { "time": "23.40", "title": "Lille Palle stikker Pjerrot en figen" },
+      {
+        "time": "23:45",
+        "title": "Britt Bendixen arrangerer festlig steppebrand"
+      },
+      {
+        "time": "23.50",
+        "title": "Gravhøj fyldt med blomme i Madeira vinder, lidt overraskende, klassisk revolverduel"
+      },
+      {
+        "time": "23:55",
+        "title": "Blæksprutte synger kærlighedssange for sig selv i HT-bus"
+      },
+      {
+        "time": "24.00",
+        "title": "Desperat testikel tager Fonamedarbejder som gidsel på ubestemt tid"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "episode": 22,
+    "program_overview": [
+      {
+        "time": "23:30",
+        "title": "Rester af marengs fundet i bagagerum fyldt med sne"
+      },
+      {
+        "time": "23:35",
+        "title": "Lille bælgært finder lykken under grydelåg"
+      },
+      {
+        "time": "23:40",
+        "title": "Fodvorte står bag omfattende snyd med gamle ringbind"
+      },
+      { "time": "23:45", "title": "Strax-vært nedkøler balletskole" },
+      {
+        "time": "23:50",
+        "title": "Polioramt kraftoverføring finder selv hjem"
+      },
+      {
+        "time": "23:55",
+        "title": "Mumie sælges som sexlsave til rig købmand fra Aldi"
+      },
+      {
+        "time": "24:00",
+        "title": "Selvmordsprocenten bland hasselnødder halveres"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "episode": 23,
+    "program_overview": [
+      { "time": "23:35", "title": "Alf napper Stanislavski-elev i måsen" },
+      {
+        "time": "23:40",
+        "title": "Strax-værten Lars Hjortshøj sender Kipketer-lerdue med samlejemotiv"
+      },
+      { "time": "23:45", "title": "Kinaskak bygget af talg hyldes" },
+      {
+        "time": "23:50",
+        "title": "Thomas Eje kommer og panerer 9 meter høj skumgummiprinter"
+      },
+      {
+        "time": "23:55",
+        "title": "Fotografi af irsk bilforhandler forstørres til det latterlige"
+      },
+      { "time": "24:00", "title": "Narkoman ringer ind og parodierer kongeål" }
+    ]
+  },
+  {
+    "season": 1,
+    "episode": 24,
+    "program_overview": [
+      { "time": "23.30", "title": "Rocazino-fan forfører Frede Farmand" },
+      { "time": "23.35", "title": "Hans Engell kommer og henter en komet" },
+      {
+        "time": "23.40",
+        "title": "Isbjørn stiller 10 frække spørgsmål til Juventus-spiller"
+      },
+      { "time": "23.45", "title": "Glas fyldt med eddike vinder Paris-Dakar" },
+      { "time": "23.50", "title": "Phillip Starck overnatter i trug af koks" },
+      { "time": "23.55", "title": "Nikotinfinger maser landsholdets maskot" },
+      {
+        "time": "24.00",
+        "title": "Komikeren Frank Hvam hånes for manglende DVD-afspiller"
+      }
+    ]
   }
 ]

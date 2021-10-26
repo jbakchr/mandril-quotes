@@ -133,5 +133,13 @@
     "character": "Otis Mallebrok",
     "characteristics": ["Temperaturforsker"],
     "actor": "Lars Hjortshøj"
+  },
+  {
+    "season": 1,
+    "episode": 23,
+    "quote": "Du skal danse dig frem til glæde",
+    "character": "Laust Willo Willo",
+    "characteristics": ["Humørekspert", "Gnistekspert"],
+    "actor": "Lars Hjortshøj"
   }
 ]
