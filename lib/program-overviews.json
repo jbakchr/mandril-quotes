@@ -537,5 +537,89 @@
         "title": "Salt græker anklager SID for ødslen med fin kokain"
       }
     ]
+  },
+  {
+    "season": 1,
+    "episode": 18,
+    "program_overview": [
+      { "time": "23:30", "title": "Hals følger efter toppolitiker" },
+      { "time": "23:35", "title": "Tysk lejesvend set nær olivenvogn i Lima" },
+      {
+        "time": "23:40",
+        "title": "Thomas Mygind kommer og dræber okse med lim"
+      },
+      {
+        "time": "23:45",
+        "title": "Jeg skjuler en kokainpåvirket chimpanse i skødet på Lotte Reimar"
+      },
+      {
+        "time": "23:50",
+        "title": "Kai Løvring kommer og tatoverer ordet \"Luftwaffe\" i lysken på Rebecca Brüel"
+      },
+      { "time": "23:55", "title": "Havgal neger vil nødlande S-tog" },
+      { "time": "24:00", "title": "Mand døber Chris Minh Dokys hat Vermouth" }
+    ]
+  },
+  {
+    "season": 1,
+    "episode": 19,
+    "program_overview": [
+      {
+        "time": "23:30",
+        "title": "7-årig koncertarrangør kommer og drukner sig i hedvin"
+      },
+      {
+        "time": "23:35",
+        "title": "Præsentation af ny chokolade med Jens Olaf Jersild-smag"
+      },
+      { "time": "23:40", "title": "Billethaj kæler med Malta i bademiljø" },
+      {
+        "time": "23:45",
+        "title": "Jane Aamund kommer og køber flervarvet formel 1-giffel"
+      },
+      {
+        "time": "23:50",
+        "title": "Mystisk vinkøber ringforlover sig med partyskinke"
+      },
+      {
+        "time": "23:55",
+        "title": "11 buffetter foreslår højrevigepligt pr. giro"
+      },
+      { "time": "24:00", "title": "Svenneolotta i frækt rekordforsøg" }
+    ]
+  },
+  {
+    "season": 1,
+    "episode": 20,
+    "program_overview": [
+      {
+        "time": "23:30",
+        "title": "Møntsamler kommer og blæser fin amfetamin ud over Skalklæser"
+      },
+      {
+        "time": "23:35:80",
+        "title": "Ryttere fra Borneo telefaxer Voice-radiovært dødstrussel"
+      },
+      {
+        "time": "23:40",
+        "title": "Ulla Jessen folder verdens mindste kontinent om til fly"
+      },
+      {
+        "time": "23:45",
+        "title": "Hånd bygget af Samarin uddeler forfriskende lussing"
+      },
+      {
+        "time": "23:50",
+        "title": "Cowboystøvle med Michael Meyerheim-motiv taler ud"
+      },
+      {
+        "time": "23:55",
+        "title": "Drenget vovhund maler portræt af hvidvinsdranker"
+      },
+      {
+        "time": "24:00",
+        "title": "Silkeabe vinder 40 gylden på at drikke Jimmy Carters morgenurin"
+      }
+    ]
   }
 ]

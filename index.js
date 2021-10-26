@@ -1,6 +1,6 @@
 const chalk = require("chalk");
 
-const quotes = require("./lib/quotes");
+const quotes = require("./lib/quotes.json");
 const warnings = require("./lib/warnings.json");
 const programOverviews = require("./lib/program-overviews.json");
 
