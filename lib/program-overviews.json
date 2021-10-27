@@ -997,5 +997,108 @@
         "title": "Bryan Adams omskærer sig med 900 kg tung landskinke"
       }
     ]
+  },
+  {
+    "season": 1,
+    "episode": 36,
+    "program_overview": [
+      {
+        "time": "23:30",
+        "title": "Dør fra 1700-tallet angriber Teddy Edelman på Broadway"
+      },
+      { "time": "23:33", "title": "Irakisk ko sætter sig på den nye Messias" },
+      {
+        "time": "23:37",
+        "title": "Dafning spiser croissant og lægger op til fødekædedebat"
+      },
+      {
+        "time": "23:40",
+        "title": "Ali Haman finder halvstor sav i Finn Nørbygårds bukselinning"
+      },
+      {
+        "time": "23:42",
+        "title": "Bred vifte af firserhit sparker Preben Heide over knæet"
+      },
+      {
+        "time": "23:43",
+        "title": "Ulovlig flue fremviser diasbilleder fra Kølig Kajs mellemøre"
+      },
+      {
+        "time": "23:44",
+        "title": "Palle Strøm og Den Hellige Gral indstøbes i den samme sylte"
+      },
+      {
+        "time": "23:50",
+        "title": "Sjov sportsdag underholder med spurtstærke dværge på grøn"
+      },
+      {
+        "time": "23:55",
+        "title": "Studiet oversvømmes med en blanding af pap og luft"
+      },
+      {
+        "time": "24:00",
+        "title": "Cro-magnon-mand danser regnen frem på Aqua-Lenes maveskind"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "episode": 37,
+    "program_overview": [
+      { "time": "24:00", "title": "Medalje af korn smider tøjet for 7 kroner" },
+      {
+        "time": "23:33",
+        "title": "Henning Grove fortæller ferrytales fra sin tid som homoseksuel på CatLink-overfarten"
+      },
+      {
+        "time": "23:37",
+        "title": "Småsulten pirat tisser på meget lille pind"
+      },
+      {
+        "time": "23:44",
+        "title": "Morten Korch-marmelade sælges til højestbydende pattedyr"
+      },
+      {
+        "time": "23:49",
+        "title": "Gipsklump laver ondskabsfuld parodi på Alex Nyborg Madsen"
+      },
+      {
+        "time": "23:55:10",
+        "title": "En milliard gnuer rækker tunge af det lille Jesusbarn"
+      },
+      {
+        "time": "23:59",
+        "title": "Jesper Bæhrenz leger spookytrold mens folk fra Slagelse prøver at falde i søvn!"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "episode": 38,
+    "program_overview": [
+      { "time": "23:30", "title": "Oversavet videospiller begraves levende" },
+      {
+        "time": "23:31",
+        "title": "Opsvulmet tunge finder guld i Ivan Pedersens skød"
+      },
+      {
+        "time": "23:37",
+        "title": "Gammel kælling laver gynge ud af Michael Teschls drøbel"
+      },
+      {
+        "time": "23:45",
+        "title": "Lille cornflake bøvser i takt til \"We Are The World\""
+      },
+      {
+        "time": "23:53",
+        "title": "Tryllefeen bag bladet Bo Bedre skider krydsfiner på tid"
+      },
+      {
+        "time": "23:57",
+        "title": "Utæt pose med hørfrø farer vild i hønsegård"
+      },
+      { "time": "23:59", "title": "Serber vinder ludospil vha. en håndgranat" },
+      { "time": "24:00", "title": "Godnat" }
+    ]
   }
 ]
