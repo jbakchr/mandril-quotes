@@ -1293,5 +1293,91 @@
       },
       { "time": "24:00", "title": "Ellen Hillingsøe prøvesmager tæt bøgehegn" }
     ]
+  },
+  {
+    "season": 1,
+    "episode": 46,
+    "program_overview": [
+      { "time": "23:31", "title": "Harsk filttrug vinder kapsejlads" },
+      {
+        "time": "23:36",
+        "title": "Nykogt mokkasin får det fulde ansvar for Rebild Bakker"
+      },
+      { "time": "23:40", "title": "Jens Okking snitter vellignende rickshaw" },
+      { "time": "23:42", "title": "Sinai-halvøen lægger ryg til fri dressur" },
+      {
+        "time": "23:48",
+        "title": "Gråsprængt diskoræv solgt som mosaik i flydende form"
+      },
+      {
+        "time": "23:56",
+        "title": "Seismograf anretter sandt blodbad i hjørnesoda"
+      },
+      {
+        "time": "23:58",
+        "title": "Karlsvognen nedlægges som stjernebillede og erstattes af motorfærgen Romsø"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "episode": 47,
+    "program_overview": [
+      {
+        "time": "23:30",
+        "title": "John Iversen slikker Professor Tribini i mellemkødet"
+      },
+      {
+        "time": "23:33",
+        "title": "Amfetamingiraf bryder amerikansk flyveforbud over polerne"
+      },
+      {
+        "time": "23:37",
+        "title": "Gedehams kanonerer kongelig skuespiller igennem væg af vat"
+      },
+      {
+        "time": "23:40",
+        "title": "Lagkage i ny dansk pornofilm i træ (Bananskræl spiller hovedrollen som den utrættelige negerhøvding \"Nudo\")"
+      },
+      {
+        "time": "23:41",
+        "title": "Knæskaller i Arne Melchior-design vinder buste af organer"
+      },
+      {
+        "time": "23:53",
+        "title": "Lækkersultent askebæger skuffer fælt i dødsdrom"
+      },
+      {
+        "time": "24:00",
+        "title": "Hakket sok afbryder høstbal med kønsløs knirken"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "episode": 48,
+    "program_overview": [
+      {
+        "time": "23.30",
+        "title": "Superkartoffel lægger nazi-æg på Thomas Ejes lænd"
+      },
+      { "time": "23.33", "title": "Jumborejer duellerer i Julemandshavet" },
+      {
+        "time": "23.34",
+        "title": "Skingert \"Kykkeli-kyy\" sætter vemodet skakmat"
+      },
+      { "time": "23.40", "title": "Emigrant affugter sjofel panda" },
+      {
+        "time": "23.46",
+        "title": "Pia Christmas Møller fjernstyrer fjerlette klunker"
+      },
+      {
+        "time": "23.50",
+        "title": "10 års-jubilæum for VAG'ere afholdes i Brunshåb Forsamlingshus"
+      },
+      { "time": "23.51", "title": "Mejerist steger speedwaymontør" },
+      { "time": "23.55", "title": "Elegant muslim håndmaler München" },
+      { "time": "24.00", "title": "Falsk vejrprofet forsvundet i latexvirvar" }
+    ]
   }
 ]

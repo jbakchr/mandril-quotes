@@ -1,6 +1,6 @@
 {
   "name": "mandril-quotes",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "description": "Package for getting quotes from the 'Casper & Mandrilaftalen' TV show",
   "main": "index.js",
   "scripts": {
