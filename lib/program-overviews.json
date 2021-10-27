@@ -1100,5 +1100,198 @@
       { "time": "23:59", "title": "Serber vinder ludospil vha. en håndgranat" },
       { "time": "24:00", "title": "Godnat" }
     ]
+  },
+  {
+    "season": 1,
+    "episode": 39,
+    "program_overview": [
+      { "time": "23:00", "title": "Lynlås prøvesmager Ole Olsens CD-ROM-drev" },
+      {
+        "time": "23:35",
+        "title": "Papirkniv kommer og udelukker kiwiforhandler fra fræk korundervisning"
+      },
+      {
+        "time": "23:40",
+        "title": "Komikeren Lasse Rimmer reddes af Militærpolitiet efter fantomweekend"
+      },
+      {
+        "time": "23:45",
+        "title": "Skabet bakkesangerinde limer klitoris fast på skolebus"
+      },
+      { "time": "23:50", "title": "Diarréramt lama overmander voldsom melon" },
+      { "time": "23:55", "title": "Rasende eskimo fletter læderpersienner" },
+      {
+        "time": "24:00",
+        "title": "Engelsk hudlæge overtaler Jürgen Klinsmanns knæ til fremragende petting"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "episode": 40,
+    "program_overview": [
+      {
+        "time": "23:30",
+        "title": "Nisse vinder Slaget på Reden med en grankogle af guld"
+      },
+      {
+        "time": "23:33",
+        "title": "7000 drengebands fastklemmes i et rucoladrevet solarium"
+      },
+      {
+        "time": "23:35",
+        "title": "1 milliard ærter sætter sig fast i Svend Gerts knæ"
+      },
+      {
+        "time": "23:40",
+        "title": "Lille pjevs søger lykken i faldstamme på Nørrebro"
+      },
+      {
+        "time": "23:46",
+        "title": "Heksedoktor finder lårbensknogle i Amin Jensens svælg"
+      },
+      {
+        "time": "23:55",
+        "title": "Ole Lukøje druknes og genoplives vha. 8 kg salt"
+      },
+      { "time": "24:00", "title": "På gensyn" }
+    ]
+  },
+  {
+    "season": 1,
+    "episode": 41,
+    "program_overview": [
+      {
+        "time": "24:00",
+        "title": "Nodestativ fortæller om sin tid som spion for Hansestæderne"
+      },
+      {
+        "time": "23:57",
+        "title": "Ny, forbedret toiletrulle afslører 7-Eleven på Mars"
+      },
+      {
+        "time": "23:52",
+        "title": "Hummer tangerer Kirsten Norholts \"Syng Længst\"-rekord"
+      },
+      {
+        "time": "23:45",
+        "title": "Livsglad fluesvamp invalideres i højresving"
+      },
+      {
+        "time": "23:34",
+        "title": "Fin hund yder førstehjælp til Anders Bircow i gasform"
+      },
+      {
+        "time": "23:31",
+        "title": "Fræk speedmaker brygger en alt for stærk Gevalia-kaffe"
+      },
+      {
+        "time": "23:11",
+        "title": "Gul papirlap svingpjatter med Kathleen fra Robinson"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "episode": 42,
+    "program_overview": [
+      {
+        "time": "23:30",
+        "title": "Halt hyttesanger fornærmes af færøsk elitesoldat"
+      },
+      {
+        "time": "23:35",
+        "title": "Solkonge viser os hvordan man kan panere metaldetektor i rasp"
+      },
+      { "time": "23:40", "title": "Sang skjuler strækmarcher i tapebasin" },
+      {
+        "time": "23:45",
+        "title": "Kondicykel stikker magisk pind i strålebehandlet optiker"
+      },
+      {
+        "time": "23:50",
+        "title": "Torben Lund kommer og farvelægger 19 m høj hat af smør"
+      },
+      {
+        "time": "23:55",
+        "title": "Sangerinden Freya udfordrer tangokat i kast med betontrug"
+      },
+      {
+        "time": "24:00",
+        "title": "Abekat underviser i brugen af Bill Gates' mobiltelefon"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "episode": 43,
+    "program_overview": [
+      { "time": "23:30", "title": "Helleflynder genser Sodastream-forhandler" },
+      {
+        "time": "23:35",
+        "title": "Læbepomade anklager Svenn Skipper for rufferi"
+      },
+      { "time": "23:40", "title": "Drengebarn af sukker ler af brændende ræv" },
+      { "time": "23:45", "title": "Æg velsigner mobiltrælast" },
+      {
+        "time": "23:50",
+        "title": "Djengis Khan flirter voldsomt med to Søs Egelinder"
+      },
+      {
+        "time": "23:55",
+        "title": "Thomas Helmig drukner englænder i sød oksehalesuppe"
+      },
+      {
+        "time": "24:00",
+        "title": "Smeltet penisfuteral underviser i flabet silhuet"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "episode": 44,
+    "program_overview": [
+      {
+        "time": "23:30",
+        "title": "Rosmarinhest kommer og pudrer Finn Laudrup"
+      },
+      { "time": "23:35", "title": "Puk Elgaard klistrer løg på pumabug" },
+      {
+        "time": "23:40",
+        "title": "Vanskabt kuglepen fløjter \"No Woman No Cry\""
+      },
+      { "time": "23:45", "title": "Sur hovedbund afliver homomyte" },
+      {
+        "time": "23:50",
+        "title": "Freddy Blak kysser mobiltelefon på over 1000 valgplakater"
+      },
+      {
+        "time": "23:55",
+        "title": "Dressing med sølvsmag kårer liv Uldall til supermejerist"
+      },
+      { "time": "24:00", "title": "Mati Atti Sarri bygger folkedanser af saft" }
+    ]
+  },
+  {
+    "season": 1,
+    "episode": 45,
+    "program_overview": [
+      { "time": "23:30", "title": "Mette Lisby overnatter i Kölnervand" },
+      {
+        "time": "23:35",
+        "title": "Sarah Zobels lånerkort kommer og modtager en række ens kastanjer"
+      },
+      { "time": "23:40", "title": "Glutenfri luder angriber klarinetspiller" },
+      {
+        "time": "23:45",
+        "title": "Kassettebånd med Leeds United-lyde forurener altan"
+      },
+      { "time": "23:50", "title": "Orlogskaptajn vælter samerpyramiden" },
+      {
+        "time": "23:55",
+        "title": "5-årig invalidepensionist bedækker valgurne"
+      },
+      { "time": "24:00", "title": "Ellen Hillingsøe prøvesmager tæt bøgehegn" }
+    ]
   }
 ]
