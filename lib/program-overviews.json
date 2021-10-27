@@ -884,5 +884,118 @@
       },
       { "time": "24:00", "title": "Dadler, dadler og masser af dadler!" }
     ]
+  },
+  {
+    "season": 1,
+    "episode": 31,
+    "program_overview": [
+      { "time": "23:30", "title": "Langtidsholdbart kamera maner til regn" },
+      { "time": "23:35", "title": "Nazismølf kommer og skærer i løg" },
+      { "time": "23:40", "title": "Jesper Klein kysser mørt gelænder" },
+      {
+        "time": "23:45",
+        "title": "Dyngvåd Lars Daneskov voldtager syg, syg fod"
+      },
+      { "time": "23:50", "title": "Karamelfrakke vinder ordduel mod FCK" },
+      { "time": "23:55", "title": "Liller bugserer hveps gennem døgnkiosk" },
+      { "time": "24:00", "title": "Salt græker splitter husbåd til atomer" }
+    ]
+  },
+  {
+    "season": 1,
+    "episode": 32,
+    "program_overview": [
+      { "time": "23:30", "title": "Glasfiberkind møder lussing i forhal" },
+      { "time": "23:35", "title": "Cykelmyggen Egon dør langt om længe" },
+      { "time": "23:40", "title": "Scientologymus leger \"Titte-bøh\"" },
+      {
+        "time": "23:45",
+        "title": "Grim udgave af Eiffeltårnet køber valmuehat"
+      },
+      {
+        "time": "23:50",
+        "title": "Dusino-værten Peter Hansen kommer og pirker til amfetamindrengen"
+      },
+      { "time": "23:55", "title": "Hvem er amfetamindrengen?" },
+      {
+        "time": "24:00",
+        "title": "Cassius Clay bager pragtfuld væddersupper..."
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "episode": 33,
+    "program_overview": [
+      {
+        "time": "23:30",
+        "title": "Enhjørning kommer og frysetørrer clockradio"
+      },
+      { "time": "23:35", "title": "Mandarin dør i blodig dominorekord" },
+      {
+        "time": "23:40",
+        "title": "Carsten Fischer nedsænker sin krop i 900° varm tis... igen"
+      },
+      {
+        "time": "23:45",
+        "title": "Lilly Broberg kommer og synger om pornofondue"
+      },
+      {
+        "time": "23:50",
+        "title": "Mand i latex fletter smukt Ole Stephensen-motiv i pilekviste"
+      },
+      { "time": "23:55", "title": "Blodhund finder sexet stork i Unibank" },
+      {
+        "time": "24:00",
+        "title": "Skipper bliver ansat på flextid som tysk fotograf"
+      }
+    ]
+  },
+  {
+    "season": 1,
+    "episode": 34,
+    "program_overview": [
+      { "time": "23:30", "title": "Anthon Berg vasker bus med marsvin" },
+      { "time": "23:35", "title": "Fuld cowboy rustbeskytter sig selv" },
+      {
+        "time": "23:40",
+        "title": "Jakob Stegelmann stjæler klitoris fra Johnny Logan"
+      },
+      { "time": "23:45", "title": "Ecstasy-dolk limer lime på kelimtæppe" },
+      {
+        "time": "23:50",
+        "title": "Mand fra Als kommer og bygger badstue af saltkød"
+      },
+      { "time": "23:55", "title": "Helle Dolleris synger om undervandstrav" },
+      { "time": "24:00", "title": "Kipketer kommer og viser dødsmagnet" }
+    ]
+  },
+  {
+    "season": 1,
+    "episode": 35,
+    "program_overview": [
+      {
+        "time": "23:30",
+        "title": "Lala fra Teletubbies knækker Cecilie Frøkjærs hofte"
+      },
+      { "time": "23:35:10", "title": "15 meter høj fil salter møgalter" },
+      {
+        "time": "23:40",
+        "title": "Vred hoppe arrangerer Dan Rachlins polterabend"
+      },
+      {
+        "time": "23:45",
+        "title": "Bill Gates kommer og skamslikker 20-årige Tom Bogs"
+      },
+      { "time": "23:50", "title": "Bo Bedre-revser vinder stegt hegn... igen" },
+      {
+        "time": "23:55",
+        "title": "Broder Salsa optræder med nyt spektakulært nummer"
+      },
+      {
+        "time": "24:00",
+        "title": "Bryan Adams omskærer sig med 900 kg tung landskinke"
+      }
+    ]
   }
 ]
