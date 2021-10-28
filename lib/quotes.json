@@ -1,5 +1,53 @@
 [
   {
+    "season": 1,
+    "episode": 1,
+    "quote": "Jag hatar det, jag hatar det",
+    "character": "Casper Christensen",
+    "characteristics": ["Vært"],
+    "actor": "Casper Christensen"
+  },
+  {
+    "season": 1,
+    "episode": 1,
+    "quote": "I det her program vil der overhovedet ikke blive sagt ordet 'Montparnasse'",
+    "character": "Casper Christensen",
+    "characteristics": ["Vært"],
+    "actor": "Casper Christensen"
+  },
+  {
+    "season": 1,
+    "episode": 1,
+    "quote": "Jeg har en citron i en kop",
+    "character": "Casper Christensen",
+    "characteristics": ["Vært"],
+    "actor": "Casper Christensen"
+  },
+  {
+    "season": 1,
+    "episode": 1,
+    "quote": "Hey! Ris-fix. Whoa, med opskrift bag på 'Sådan laver du Lisbeth Dahl'. Det skal jeg lave i aften.",
+    "character": "Casper Christensen",
+    "characteristics": ["Vært"],
+    "actor": "Casper Christensen"
+  },
+  {
+    "season": 1,
+    "episode": 1,
+    "quote": "Hvad fik polakkerne til at tage til Lolland for at høste kartofler?",
+    "character": "Svenne O'lotta",
+    "characteristics": ["Ædedolk med en sød tand"],
+    "actor": "Lasse Rimmer"
+  },
+  {
+    "season": 1,
+    "episode": 1,
+    "quote": "Er der aber på Møn?",
+    "character": "Svenne O'lotta",
+    "characteristics": ["Ædedolk med en sød tand"],
+    "actor": "Lasse Rimmer"
+  },
+  {
     "quote": "Er der nogen der kan hjælp' mig?",
     "character": "Bianca Landsfig",
     "actor": "Lars Hjortshøj"
